@@ -10,7 +10,7 @@ interface BuilderPageProps {
 }
 
 // Replace with your Public API Key
-builder.init("68c46ab1288b49c0a458451a84ebd7ec");
+builder.init("c037bb9eecf64da7a92704f51cd04886");
 
 Builder.registerComponent(Banner, {
   name: "Banner",
